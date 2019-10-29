@@ -1,2 +1,3 @@
-first information
-This line added for task
+first line added fo the task
+seconf line 
+third line
